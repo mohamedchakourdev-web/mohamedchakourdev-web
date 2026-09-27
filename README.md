@@ -1,94 +1,131 @@
-# Hi, I'm Mohamed Chakour 👋
+<div align="center">
 
-### Full Stack Web Developer
+```text
+███╗   ███╗ ██████╗ ██╗  ██╗ █████╗ ███╗   ███╗███████╗██████╗
+████╗ ████║██╔═══██╗██║  ██║██╔══██╗████╗ ████║██╔════╝██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║█████╗  ██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝
+</div> <table> <tr> <td width="45%" valign="top">
+              .----------------.
+             /                  \
+            /    MOHAMED        \
+           /      CHAKOUR        \
+          /                      \
+         /     FULL STACK        \
+        /      DEVELOPER         \
+       /__________________________\
 
-I'm a Full Stack Web Developer specialized in building modern,
-scalable and user-friendly web applications.
+      > Web Developer
+      > Morocco
+      > React + Laravel
+</td> <td width="55%" valign="top">
+┌─[ mohamed@github ]──────────────────────────────┐
+│                                                 │
+│ OS              : Windows                       │
+│ Role            : Full Stack Web Developer      │
+│ Location        : Morocco                       │
+│ Education       : Web Full Stack                │
+│                                                 │
+│ Frontend        : React.js, TypeScript          │
+│ Backend         : PHP, Laravel, Node.js         │
+│ Database        : MySQL, PostgreSQL, MongoDB    │
+│ Styling         : Tailwind CSS, Bootstrap       │
+│ Tools           : Git, GitHub, Docker           │
+│ Editor          : VS Code                       │
+│                                                 │
+│ Status          : Building & Learning            │
+│ Focus           : Scalable Web Applications     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+</td> </tr> </table>
+$ whoami
+Mohamed Chakour
+Full Stack Web Developer
 
-I enjoy working with modern technologies and turning ideas into
-clean and practical digital solutions.
+I build modern, scalable and user-friendly web applications.
 
----
+My main stack:
+→ React.js
+→ Laravel / PHP
+→ REST APIs
+→ SQL / NoSQL
+→ Git & GitHub
+$ tech --list
+<table> <tr> <td valign="top" width="50%">
+Frontend
+JavaScript
+TypeScript
+React.js
+Next.js
+HTML5
+CSS3
+Tailwind CSS
+Bootstrap
+</td> <td valign="top" width="50%">
+Backend
+PHP
+Laravel
+Node.js
+REST API
+Authentication
+Sanctum
+</td> </tr> <tr> <td valign="top">
+Databases
+MySQL
+PostgreSQL
+MongoDB
+</td> <td valign="top">
+Development Tools
+Git
+GitHub
+Docker
+Postman
+VS Code
+Vite
+</td> </tr> </table>
+$ projects
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  [01] ISTA Tiznit                                          │
+│       Application for managing trainee absences             │
+│       Laravel • PHP • MySQL                                │
+│                                                             │
+│  [02] Professional Dashboard                               │
+│       Business analytics dashboard                          │
+│       React • TypeScript • Vite                             │
+│                                                             │
+│  [03] ShopFlow                                              │
+│       Modern e-commerce application                         │
+│       React • TypeScript                                    │
+│                                                             │
+│  [04] Reelyx                                                │
+│       Modern movie platform                                 │
+│       Laravel • PHP                                         │
+│                                                             │
+│  [05] Portfolio                                             │
+│       Personal developer portfolio                          │
+│       React • JavaScript                                    │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+$ github --stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mohamedchakourdev-web&show_icons=true&theme=github_dark&hide_border=true" height="170" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedchakourdev-web&layout=compact&theme=github_dark&hide_border=true" height="170" /> </p>
+$ activity
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedchakourdev-web&theme=github-compact&hide_border=true" width="100%" /> </p>
+$ contact
+┌─[ contact ]─────────────────────────────────────┐
+│                                                 │
+│ Email    : mohamed.chakour.dev@gmail.com        │
+│ GitHub   : github.com/mohamedchakourdev-web     │
+│                                                 │
+└─────────────────────────────────────────────────┘
+<p align="center"> <a href="mailto:mohamed.chakour.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/mohamedchakourdev-web"> <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/> </a> </p>
+<div align="center">
+$ echo "Building the web, one project at a time."
 
-## 🚀 About Me
+[████████████████████████████████████████] 100%
 
-- 🎓 Web Full Stack Developer
-- 💻 Focused on React.js & Laravel
-- 🌐 Interested in Full Stack Web Development
-- 🧠 Currently improving my skills in software architecture and backend development
-- 🚀 Building real-world projects and SaaS applications
-- 📍 Morocco
+Mohamed Chakour • Full Stack Web Developer
 
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📌 Featured Projects
-
-### 🏫 ISTA Tiznit
-Web application for managing trainee absences.
-
-**Laravel · PHP · MySQL**
-
-### 📊 Professional Dashboard
-Business analytics dashboard built with React, TypeScript and Vite.
-
-**React · TypeScript · Vite**
-
-### 🛒 ShopFlow
-Modern e-commerce application.
-
-**React · TypeScript**
-
-### 🎬 Reelyx
-Movie platform with a modern user interface.
-
-**PHP · Laravel**
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedchakourdev-web&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedchakourdev-web&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="mailto:mohamed.chakour.dev@gmail.com">
-    Email
-  </a>
-</p>
-
----
-
-<p align="center">
-  <i>Building clean, scalable and useful web applications.</i>
-</p>
+</div> ```
