@@ -30,13 +30,12 @@
 
     <line x1="95" y1="415" x2="475" y2="415" stroke="#8b949e" stroke-width="1"/>
 
-    <text x="95" y="450" class="body">React.js</text>
+    <text x="95" y="450" class="body">React.js / JavaScript</text>
     <text x="95" y="477" class="body">Laravel / PHP</text>
-    <text x="95" y="504" class="body">REST API</text>
     <text x="95" y="531" class="body">MySQL / PostgreSQL / MongoDB</text>
-    <text x="95" y="558" class="body">Git / GitHub / Docker</text>
+    <text x="95" y="558" class="body">Git / GitHub / GitLab / Docker / Postman</text>
 
-    <text x="95" y="610" class="green">$ echo "building the web..."</text>
+    <text x="95" y="610" class="green">building the web...</text>
     <text x="95" y="638" class="green">building the web, one project at a time.</text>
   </g>
 
@@ -50,15 +49,15 @@
 
     <text x="660" y="90" class="label">OS:</text>
     <text x="715" y="90" class="muted">............................</text>
-    <text x="1000" y="90" class="value">Windows</text>
+    <text x="1000" y="90" class="value">Windows / Linux </text>
 
     <text x="660" y="118" class="label">Role:</text>
     <text x="715" y="118" class="muted">..........................</text>
-    <text x="1000" y="118" class="value">Full Stack Developer</text>
+    <text x="1000" y="118" class="value">Full Stack Web Developer</text>
 
     <text x="660" y="146" class="label">Location:</text>
     <text x="755" y="146" class="muted">....................</text>
-    <text x="1000" y="146" class="value">Morocco</text>
+    <text x="1000" y="146" class="value">Morocco . Agadir</text>
 
     <text x="660" y="174" class="label">Education:</text>
     <text x="755" y="174" class="muted">...................</text>
@@ -66,10 +65,10 @@
 
     <text x="660" y="202" class="label">IDE:</text>
     <text x="715" y="202" class="muted">............................</text>
-    <text x="1000" y="202" class="value">VS Code</text>
+    <text x="1000" y="202" class="value">VS Code / Cursor</text>
 
     <text x="660" y="244" class="label">Languages.Programming:</text>
-    <text x="660" y="269" class="value">JavaScript, TypeScript, PHP, SQL</text>
+    <text x="660" y="269" class="value">JavaScript, TypeScript, PHP, Python </text>
 
     <text x="660" y="310" class="label">Languages.Framework:</text>
     <text x="660" y="335" class="value">React.js, Laravel, Next.js, Node.js</text>
@@ -80,7 +79,7 @@
 
     <text x="660" y="419" class="label">Tools:</text>
     <text x="715" y="419" class="muted">............................</text>
-    <text x="1000" y="419" class="value">Git, GitHub, Docker</text>
+    <text x="1000" y="419" class="value">Git, GitHub, Docker, Postman</text>
 
     <text x="660" y="463" class="body">- Contact ─────────────────────────────────────────</text>
     <text x="660" y="491" class="label">Email:</text>
@@ -89,17 +88,17 @@
     <text x="660" y="535" class="body">- GitHub Stats ───────────────────────────────────</text>
 
     <text x="660" y="563" class="label">Repos:</text>
-    <text x="735" y="563" class="value">7</text>
+    <text x="735" y="563" class="value">*</text>
 
     <text x="805" y="563" class="label">Followers:</text>
-    <text x="915" y="563" class="value">1</text>
+    <text x="915" y="563" class="value">*</text>
 
     <text x="660" y="591" class="label">Following:</text>
-    <text x="775" y="591" class="value">3</text>
+    <text x="775" y="591" class="value">*</text>
 
     <text x="850" y="591" class="label">Focus:</text>
     <text x="925" y="591" class="green">Web Development</text>
 
-    <text x="660" y="635" class="green">$ echo "building the web..."</text>
+    <text x="660" y="635" class="green">building the web...</text>
   </g>
 </svg>
