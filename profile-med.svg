@@ -68,7 +68,6 @@
 
     <text x="660" y="244" class="label">Languages.Programming:</text>
     <text x="660" y="269" class="value">JavaScript, TypeScript, PHP, Python </text>
-
     <text x="660" y="310" class="label">Languages.Framework:</text>
     <text x="660" y="335" class="value">React.js, Laravel, Next.js, Node.js</text>
 
@@ -97,7 +96,6 @@
 
     <text x="850" y="591" class="label">Focus:</text>
     <text x="925" y="591" class="green">Web Development</text>
-
     <text x="660" y="635" class="green">building the web...</text>
   </g>
 </svg>
