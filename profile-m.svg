@@ -13,7 +13,7 @@
 
 <!-- LEFT: simple M -->
 <g class="m">
-  <text x="300" y="335" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="190" font-weight="700" fill="#f0f6fc">M</text>
+  <text x="300" y="335" text-anchor="middle" font-family="DejaVu Sans Mono, Courier New, monospace" font-size="190" font-weight="700" fill="#f0f6fc">MED</text>
 
   <text x="260" y="390"
         text-anchor="middle"
