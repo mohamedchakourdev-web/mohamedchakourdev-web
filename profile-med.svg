@@ -34,7 +34,6 @@
     <text x="95" y="477" class="body">Laravel / PHP</text>
     <text x="95" y="531" class="body">MySQL / PostgreSQL / MongoDB</text>
     <text x="95" y="558" class="body">Git / GitHub / GitLab / Docker / Postman</text>
-
     <text x="95" y="610" class="green">building the web...</text>
     <text x="95" y="638" class="green">building the web, one project at a time.</text>
   </g>
@@ -44,7 +43,7 @@
 
   <!-- RIGHT COLUMN -->
   <g class="mono">
-    <text x="660" y="52" class="title">mohamed@chakour</text>
+    <text x="660" y="52" class="title">MOHAMED CHAKOUR</text>
     <line x1="845" y1="52" x2="1335" y2="52" stroke="#30363d" stroke-width="2"/>
 
     <text x="660" y="90" class="label">OS:</text>
