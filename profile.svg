@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="720" viewBox="0 0 1400 720">
+  <rect width="1400" height="720" rx="18" fill="#161b22"/>
+  <style>
+    .mono { font-family: "DejaVu Sans Mono", "Courier New", monospace; }
+    .small { font-size: 18px; }
+    .label { fill:#f0883e; font-weight:700; }
+    .value { fill:#9cdcfe; }
+    .muted { fill:#8b949e; }
+    .white { fill:#f0f6fc; }
+    .green { fill:#56d364; }
+  </style>
+
+  <!-- left ASCII panel -->
+  <text x="45" y="55" class="mono small muted">mohamedchakourdev-web / README.md</text>
+
+  <g class="mono white" font-size="15">
+    <text x="55" y="110">                 ███╗   ███╗</text>
+    <text x="55" y="128">                 ████╗ ████║</text>
+    <text x="55" y="146">                 ██╔████╔██║</text>
+    <text x="55" y="164">                 ██║╚██╔╝██║</text>
+    <text x="55" y="182">                 ██║ ╚═╝ ██║</text>
+    <text x="55" y="200">                 ╚═╝     ╚═╝</text>
+    <text x="55" y="235">        ██████╗██╗  ██╗ █████╗ ██╗  ██╗</text>
+    <text x="55" y="253">       ██╔════╝██║  ██║██╔══██╗██║ ██╔╝</text>
+    <text x="55" y="271">       ██║     ███████║███████║█████╔╝ </text>
+    <text x="55" y="289">       ██║     ██╔══██║██╔══██║██╔═██╗ </text>
+    <text x="55" y="307">       ╚██████╗██║  ██║██║  ██║██║  ██╗</text>
+    <text x="55" y="325">        ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝</text>
+
+    <text x="55" y="380" fill="#79c0ff">      &lt; FULL STACK WEB DEVELOPER /&gt;</text>
+    <text x="55" y="414" fill="#8b949e">      ───────────────────────────────</text>
+    <text x="55" y="446">      React.js</text>
+    <text x="55" y="470">      Laravel / PHP</text>
+    <text x="55" y="494">      REST API</text>
+    <text x="55" y="518">      MySQL / PostgreSQL / MongoDB</text>
+    <text x="55" y="542">      Git / GitHub / Docker</text>
+    <text x="55" y="590" fill="#56d364">      $ echo "building the web..."</text>
+    <text x="55" y="620" fill="#56d364">      building the web, one project at a time.</text>
+  </g>
+
+  <!-- right panel -->
+  <text x="760" y="55" class="mono small white">mohamed@chakour</text>
+  <line x1="760" y1="72" x2="1350" y2="72" stroke="#30363d" stroke-width="2"/>
+
+  <g class="mono" font-size="18">
+    <text x="760" y="110" class="label">OS:</text>
+    <text x="900" y="110" class="muted">........................</text>
+    <text x="1130" y="110" class="value">Windows</text>
+
+    <text x="760" y="140" class="label">Role:</text>
+    <text x="900" y="140" class="muted">......................</text>
+    <text x="1130" y="140" class="value">Full Stack Developer</text>
+
+    <text x="760" y="170" class="label">Location:</text>
+    <text x="900" y="170" class="muted">...................</text>
+    <text x="1130" y="170" class="value">Morocco</text>
+
+    <text x="760" y="200" class="label">Education:</text>
+    <text x="900" y="200" class="muted">.................</text>
+    <text x="1130" y="200" class="value">Web Full Stack</text>
+
+    <text x="760" y="230" class="label">IDE:</text>
+    <text x="900" y="230" class="muted">........................</text>
+    <text x="1130" y="230" class="value">VS Code</text>
+
+    <text x="760" y="275" class="label">Languages.Programming:</text>
+    <text x="760" y="302" class="value">JavaScript, TypeScript, PHP, SQL</text>
+
+    <text x="760" y="345" class="label">Languages.Framework:</text>
+    <text x="760" y="372" class="value">React.js, Laravel, Next.js, Node.js</text>
+
+    <text x="760" y="415" class="label">Database:</text>
+    <text x="900" y="415" class="muted">......................</text>
+    <text x="1130" y="415" class="value">MySQL, PostgreSQL, MongoDB</text>
+
+    <text x="760" y="460" class="label">Tools:</text>
+    <text x="900" y="460" class="muted">..........................</text>
+    <text x="1130" y="460" class="value">Git, GitHub, Docker, Postman</text>
+
+    <text x="760" y="505" class="white">- Contact ------------------------------------------</text>
+    <text x="760" y="535" class="label">Email:</text>
+    <text x="900" y="535" class="value">mohamed.chakour.dev@gmail.com</text>
+
+    <text x="760" y="580" class="white">- GitHub Stats ------------------------------------</text>
+    <text x="760" y="610" class="label">Repos:</text>
+    <text x="900" y="610" class="value">7</text>
+    <text x="990" y="610" class="label">Followers:</text>
+    <text x="1130" y="610" class="value">1</text>
+    <text x="760" y="640" class="label">Following:</text>
+    <text x="900" y="640" class="value">2</text>
+    <text x="990" y="640" class="label">Focus:</text>
+    <text x="1130" y="640" class="green">Web Development</text>
+  </g>
+</svg>
