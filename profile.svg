@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="650" viewBox="0 0 1200 650">
+<rect x="0" y="0" width="1200" height="650" rx="18" fill="#161b22"/>
+
+<style>
+.m{font-family:"DejaVu Sans Mono","Courier New",monospace;font-size:16px}
+.h{font-size:17px;font-weight:700}
+.w{fill:#f0f6fc}
+.b{fill:#79c0ff}
+.o{fill:#f0883e}
+.g{fill:#56d364}
+.muted{fill:#8b949e}
+</style>
+
+<!-- LEFT: ASCII / identity -->
+<g class="m w">
+<text x="38" y="45">        @@@@@@@@%%@@%%%@</text>
+<text x="38" y="62">     @@@@%%@@%%@@%%@@%%@@@</text>
+<text x="38" y="79">   @@@@%%@@@%%%%%%@@@@%%%%@@</text>
+<text x="38" y="96">  @@@@%%@@@%%@@%%@@@%%@@@%%@</text>
+<text x="38" y="113"> @@@@%%%%@@@%%@@%%@@%%@@%%%%@</text>
+<text x="38" y="130"> @@@@%%%%@@@%%%%%%@@@%%%%%%@</text>
+<text x="38" y="147"> @@@@%%%%%@@@%%%%%@@%%%%%%%@</text>
+<text x="38" y="164">  @@@@@%%%%@@%%%%%%@@%%%%%@@</text>
+<text x="38" y="181">    @@@@%%%%%@@%%@@%%%%%@@</text>
+<text x="38" y="198">       @@@@%%%%%%%%%%@@@@</text>
+<text x="38" y="215">          @@@%%%%%%@@@</text>
+<text x="38" y="232">       @@@@  @@@@@  @@@@</text>
+<text x="38" y="249">      @@@@    @@@    @@@@</text>
+<text x="38" y="266">     @@@@             @@@@</text>
+<text x="38" y="283">    @@@@      @@@      @@@@</text>
+<text x="38" y="300">   @@@@      @@@@@      @@@@</text>
+<text x="38" y="317">  @@@@      @@@@@@@      @@@@</text>
+<text x="38" y="334"> @@@@       @@@@@@@       @@@@</text>
+<text x="38" y="351">@@@@         @@@@@         @@@@</text>
+<text x="38" y="368">@@@                       @@@</text>
+<text x="38" y="385">@@@     FULL STACK DEV     @@@</text>
+<text x="38" y="402">@@@                       @@@</text>
+<text x="38" y="419"> @@@@                   @@@@</text>
+<text x="38" y="436">  @@@@                 @@@@</text>
+<text x="38" y="453">    @@@@             @@@@</text>
+<text x="38" y="470">      @@@@@@@@@@@@@@@@@@@</text>
+
+<text x="45" y="515" class="b">&lt; FULL STACK WEB DEVELOPER /&gt;</text>
+<text x="45" y="540" class="muted">────────────────────────────────</text>
+<text x="45" y="566">React.js</text>
+<text x="45" y="586">Laravel / PHP</text>
+<text x="45" y="606">REST API</text>
+<text x="45" y="626">MySQL / PostgreSQL / MongoDB</text>
+</g>
+
+<!-- RIGHT: terminal information -->
+<g class="m">
+<text x="615" y="45" class="h w">mohamed@chakour</text>
+<text x="790" y="45" class="muted">────────────────────────────────────────────</text>
+
+<text x="615" y="78" class="o">OS:</text>
+<text x="680" y="78" class="muted">........................</text>
+<text x="930" y="78" class="b">Windows</text>
+
+<text x="615" y="103" class="o">Role:</text>
+<text x="680" y="103" class="muted">......................</text>
+<text x="930" y="103" class="b">Full Stack Developer</text>
+
+<text x="615" y="128" class="o">Location:</text>
+<text x="705" y="128" class="muted">..................</text>
+<text x="930" y="128" class="b">Morocco</text>
+
+<text x="615" y="153" class="o">Education:</text>
+<text x="705" y="153" class="muted">.................</text>
+<text x="930" y="153" class="b">Web Full Stack</text>
+
+<text x="615" y="178" class="o">IDE:</text>
+<text x="680" y="178" class="muted">........................</text>
+<text x="930" y="178" class="b">VS Code</text>
+
+<text x="615" y="220" class="o">Languages.Programming:</text>
+<text x="615" y="244" class="b">JavaScript, TypeScript, PHP, SQL</text>
+
+<text x="615" y="286" class="o">Languages.Framework:</text>
+<text x="615" y="310" class="b">React.js, Laravel, Next.js, Node.js</text>
+
+<text x="615" y="352" class="o">Database:</text>
+<text x="705" y="352" class="muted">....................</text>
+<text x="930" y="352" class="b">MySQL, PostgreSQL, MongoDB</text>
+
+<text x="615" y="394" class="o">Tools:</text>
+<text x="680" y="394" class="muted">........................</text>
+<text x="930" y="394" class="b">Git, GitHub, Docker</text>
+
+<text x="615" y="438" class="w">- Contact ─────────────────────────────────────</text>
+<text x="615" y="464" class="o">Email:</text>
+<text x="680" y="464" class="b">mohamed.chakour.dev@gmail.com</text>
+
+<text x="615" y="508" class="w">- GitHub Stats ───────────────────────────────</text>
+<text x="615" y="534" class="o">Repos:</text>
+<text x="680" y="534" class="b">7</text>
+<text x="735" y="534" class="o">Followers:</text>
+<text x="835" y="534" class="b">1</text>
+
+<text x="615" y="559" class="o">Following:</text>
+<text x="725" y="559" class="b">3</text>
+<text x="790" y="559" class="o">Focus:</text>
+<text x="860" y="559" class="g">Web Development</text>
+
+<text x="615" y="610" class="g">$ echo "building the web..."</text>
+</g>
+</svg>
