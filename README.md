@@ -68,22 +68,9 @@ I'm a passionate **Full Stack Web Development student** focused on building mode
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,postman,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker" />
 
 </p>
-
----
-
-## 📚 Currently Learning
-
-```text
-Laravel        ███████████████░░░░░  75%
-React.js       ██████████████░░░░░░  70%
-JavaScript     ████████████████░░░░  80%
-PHP            █████████████████░░░  85%
-MySQL          ████████████████░░░░  80%
-Git & GitHub   █████████████████░░░  85%
-```
 
 ---
 
