@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+ <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 </p>
 
 </div>
@@ -198,7 +198,6 @@ A Python-based control panel project using OOP and MVC concepts with network com
 
 ### 💡 "Code. Learn. Build. Improve."
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="700">
 
 <br><br>
 
